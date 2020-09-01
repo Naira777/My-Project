@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/My-project/static/css/main.8e3a0df2.chunk.css",
-    "main.js": "/My-project/static/js/main.fb091ff2.chunk.js",
-    "main.js.map": "/My-project/static/js/main.fb091ff2.chunk.js.map",
+    "main.css": "/My-project/static/css/main.2688d1f5.chunk.css",
+    "main.js": "/My-project/static/js/main.4b31872c.chunk.js",
+    "main.js.map": "/My-project/static/js/main.4b31872c.chunk.js.map",
     "runtime-main.js": "/My-project/static/js/runtime-main.9731e6ac.js",
     "runtime-main.js.map": "/My-project/static/js/runtime-main.9731e6ac.js.map",
-    "static/css/2.11829350.chunk.css": "/My-project/static/css/2.11829350.chunk.css",
-    "static/js/2.11eefb7c.chunk.js": "/My-project/static/js/2.11eefb7c.chunk.js",
-    "static/js/2.11eefb7c.chunk.js.map": "/My-project/static/js/2.11eefb7c.chunk.js.map",
+    "static/css/2.5d7afb25.chunk.css": "/My-project/static/css/2.5d7afb25.chunk.css",
+    "static/js/2.eda411cf.chunk.js": "/My-project/static/js/2.eda411cf.chunk.js",
+    "static/js/2.eda411cf.chunk.js.map": "/My-project/static/js/2.eda411cf.chunk.js.map",
     "index.html": "/My-project/index.html",
-    "precache-manifest.8b5ebf97bbe3ba18fbf345e2435cbfb0.js": "/My-project/precache-manifest.8b5ebf97bbe3ba18fbf345e2435cbfb0.js",
+    "precache-manifest.9269dc9f08f6aeadbbf1d332dfc40a2b.js": "/My-project/precache-manifest.9269dc9f08f6aeadbbf1d332dfc40a2b.js",
     "service-worker.js": "/My-project/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/My-project/static/css/2.11829350.chunk.css.map",
-    "static/css/main.8e3a0df2.chunk.css.map": "/My-project/static/css/main.8e3a0df2.chunk.css.map",
-    "static/js/2.11eefb7c.chunk.js.LICENSE.txt": "/My-project/static/js/2.11eefb7c.chunk.js.LICENSE.txt",
+    "static/css/2.5d7afb25.chunk.css.map": "/My-project/static/css/2.5d7afb25.chunk.css.map",
+    "static/css/main.2688d1f5.chunk.css.map": "/My-project/static/css/main.2688d1f5.chunk.css.map",
+    "static/js/2.eda411cf.chunk.js.LICENSE.txt": "/My-project/static/js/2.eda411cf.chunk.js.LICENSE.txt",
     "static/media/earth.jpg": "/My-project/static/media/earth.efc38578.jpg",
     "static/media/earth2.jpg": "/My-project/static/media/earth2.cb68c6dc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9731e6ac.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.11eefb7c.chunk.js",
-    "static/css/main.8e3a0df2.chunk.css",
-    "static/js/main.fb091ff2.chunk.js"
+    "static/css/2.5d7afb25.chunk.css",
+    "static/js/2.eda411cf.chunk.js",
+    "static/css/main.2688d1f5.chunk.css",
+    "static/js/main.4b31872c.chunk.js"
   ]
 }
