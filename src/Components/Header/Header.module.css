@@ -1,0 +1,12 @@
+.header {
+
+    grid-area: h;
+   
+   
+}
+.header .foto {
+
+    width: 1500px;
+    height: auto;
+
+}
